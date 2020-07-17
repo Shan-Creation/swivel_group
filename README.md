@@ -1,6 +1,6 @@
 # swivel
 
-#config the project
+# config the project
 
 1. clone the project
 2. in terminal navigate swivel directory and  run "npm run install-all " command
